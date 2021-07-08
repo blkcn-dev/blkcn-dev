@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @blkcn-dev
-- 👀 I’m interested in blokchain and defi projects
+👋 Hi, I’m @blkcn-dev
+👀 I’m interested in blokchain and defi projects
 
 
 <!---
